@@ -1,6 +1,4 @@
-# ITCS525 Lecture 7: Calculator with React & Tailwind CSS
-
-An iOS-inspired dark theme calculator built using **React** and **Tailwind CSS v4** as part of the ITCS525 Software Development curriculum.
+# Calculator
 
 ## Features
 
